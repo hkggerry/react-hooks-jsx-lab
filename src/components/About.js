@@ -3,10 +3,10 @@ import { image } from "../data/data";
 
 function About() {
   return ( 
-  <div id = "about">
+  <div id = {"about"}>
     <h2>About Me</h2>
     <p>Links</p>
-    <img src = {image} alt="I made this"></img>
+    <img src = {image} alt={"I made this"}></img>
     About</div>
   )}
 
